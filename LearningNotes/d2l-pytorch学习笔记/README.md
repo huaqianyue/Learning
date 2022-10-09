@@ -1,2 +1,2 @@
 # LearningNotes
-上传测试
+d2l学习笔记
