@@ -25,6 +25,7 @@
 1. 有序列表
 2. 有序列表
 3. 有序列表
+4. 
 
 ## **四、表格**
 | 星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日 | 
@@ -68,3 +69,6 @@ $$
 $$
     J(w,b)=\frac{1}{2m}\sum_{i=1}^{m}(\hat{y}^{(i)}-y^{(i)})^2\tag{1}
 $$
+![](https://cdn.jsdelivr.net/gh/huaqianyue/imgs@master/markdown-imgs/202211182043226.png)
+![](https://cdn.jsdelivr.net/gh/huaqianyue/imgs@master/markdown-imgs/202211191844176.png)
+![](https://cdn.jsdelivr.net/gh/huaqianyue/imgs@master/markdown-imgs/202211191934755.png)
